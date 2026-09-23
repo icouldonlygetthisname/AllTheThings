@@ -25,5 +25,8 @@
     ],
     "Lua.diagnostics.enable": false,
     "Lua.diagnostics.ignoredFiles": "Disable",
-    "Lua.diagnostics.libraryFiles": "Disable"
+    "Lua.diagnostics.libraryFiles": "Disable",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ]
 }
